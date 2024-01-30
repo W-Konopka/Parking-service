@@ -1,0 +1,6 @@
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\bin\Release\FileLibrary.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\bin\Release\FileLibrary.pdb
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Release\FileLibrary.csproj.AssemblyReference.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Release\FileLibrary.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Release\FileLibrary.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Release\FileLibrary.pdb

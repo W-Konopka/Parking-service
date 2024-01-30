@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\WK  projerkt\Park-O-Meter\FileLibrary\bin\Debug\FileLibrary.dll
+C:\Users\Student\Desktop\WK  projerkt\Park-O-Meter\FileLibrary\bin\Debug\FileLibrary.pdb
+C:\Users\Student\Desktop\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.dll
+C:\Users\Student\Desktop\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.pdb
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\bin\Debug\FileLibrary.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\bin\Debug\FileLibrary.pdb
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.csproj.AssemblyReference.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\FileLibrary\obj\Debug\FileLibrary.pdb
