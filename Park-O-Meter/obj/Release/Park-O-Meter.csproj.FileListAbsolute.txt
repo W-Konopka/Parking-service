@@ -1,0 +1,99 @@
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\Park-O-Meter.exe.config
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\Park-O-Meter.exe
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\Park-O-Meter.pdb
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\FileLibrary.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\FileLibrary.pdb
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.AssemblyReference.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.SuggestedBindingRedirects.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Theme\ConfirmButtontheme.baml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Theme\MenuButtonTheme.baml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Theme\TextBoxTheme.baml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\CurrentState.g.cs
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\MainWindow.g.cs
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\App.g.cs
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter_MarkupCompile.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter_MarkupCompile.lref
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\App.baml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\CurrentState.baml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\MainWindow.baml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.g.resources
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park_O_Meter.Properties.Resources.resources
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.GenerateResource.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.CopyComplete
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.exe
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.pdb
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.SqlServer.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.EF6.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.Linq.dll
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.xml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.SqlServer.xml
+E:\WSB STUDIA\SEMESTR 2\Programowanie objektowe\Cwiczenia\Projekt Starsza wersja .net\WK  projerkt\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.xml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\Park-O-Meter.exe.config
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\Park-O-Meter.exe
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\Park-O-Meter.pdb
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.SqlServer.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\FileLibrary.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.EF6.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.Linq.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\FileLibrary.pdb
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.xml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\EntityFramework.SqlServer.xml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\bin\Release\System.Data.SQLite.xml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.AssemblyReference.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.SuggestedBindingRedirects.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Theme\ConfirmButtontheme.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Theme\MenuButtonTheme.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Theme\TextBoxTheme.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\CurrentState.g.cs
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\MainWindow.g.cs
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\App.g.cs
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter_MarkupCompile.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter_MarkupCompile.lref
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\App.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\CurrentState.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\MainWindow.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.g.resources
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park_O_Meter.Properties.Resources.resources
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.GenerateResource.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.csproj.CopyComplete
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.exe
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter\Park-O-Meter\obj\Release\Park-O-Meter.pdb
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\Park-O-Meter.exe.config
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\Park-O-Meter.exe
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\Park-O-Meter.pdb
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\EntityFramework.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\EntityFramework.SqlServer.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\FileLibrary.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\System.Data.SQLite.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\System.Data.SQLite.EF6.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\System.Data.SQLite.Linq.dll
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\FileLibrary.pdb
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\EntityFramework.xml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\EntityFramework.SqlServer.xml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\bin\Release\System.Data.SQLite.xml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.csproj.AssemblyReference.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.csproj.SuggestedBindingRedirects.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Theme\ConfirmButtontheme.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Theme\MenuButtonTheme.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Theme\TextBoxTheme.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\CurrentState.g.cs
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\MainWindow.g.cs
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\App.g.cs
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter_MarkupCompile.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter_MarkupCompile.lref
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\App.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\CurrentState.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\MainWindow.baml
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.g.resources
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park_O_Meter.Properties.Resources.resources
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.csproj.GenerateResource.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.csproj.CoreCompileInputs.cache
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.csproj.CopyComplete
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.exe
+E:\WSB STUDIA\SEMESTR 5\GUI\Park-O-Meter_SQLITTE\Park-O-Meter\obj\Release\Park-O-Meter.pdb

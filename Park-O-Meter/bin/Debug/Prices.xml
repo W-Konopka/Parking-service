@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ArrayOfInt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <int>3</int> ///motorbike price
+  <int>5</int> ///car price
+  <int>10</int> ///bus price
+</ArrayOfInt>
